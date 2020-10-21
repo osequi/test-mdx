@@ -27,7 +27,7 @@ const container = {
  * @see Test.md
  */
 const Test = (props) => {
-  return <div className="Test">Test, a component</div>;
+  return <div className="Test">Test, a React component</div>;
 };
 
 Test.propTypes = propTypes;
